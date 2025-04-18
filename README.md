@@ -7,8 +7,7 @@ REST API сервис для работы с данными о занятиях,
 ```bash
 npm install
 docker-compose up -d
-npm run build
-npm start
+npm run serve
 ```
 
 ## API Документация
